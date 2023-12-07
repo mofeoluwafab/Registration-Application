@@ -8,9 +8,9 @@ using registration.Repository.Interface;
 
 namespace registration.Repository.Implementation
 {
-    public class ProfileRepository : IProfileRepository
-    {
-        string connectionStr = "server=localhost; user=root; password=mofeoluwafab";
+	public class ProfileRepository : IProfileRepository
+	{
+		string connectionStr = "server=localhost; user=root; password=mofeoluwafab";
 		public Profile Create(Profile obj)
 		{
 			using(var con = new MySqlConnection(connectionStr))
@@ -24,5 +24,6 @@ namespace registration.Repository.Implementation
 				return obj;
 			}
 		}
-    }
+		
+	}
 }
