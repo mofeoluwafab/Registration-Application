@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7fM8xNcV3atKIpEq1hMQWGimOCXSUbijetBVflQfhMwvqELPuUi1OErdv/58M8xqKm8Igkp+K4L0P2nlI1ASA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mofeoluwa\\Desktop\\Programing school\\registration\\registration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mofeoluwa\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mofeoluwa\\.nuget\\packages\\mysql.data\\6.10.9\\mysql.data.6.10.9.nupkg.sha512",
+    "C:\\Users\\Mofeoluwa\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "C:\\Users\\Mofeoluwa\\.nuget\\packages\\system.security.accesscontrol\\4.4.0\\system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\Mofeoluwa\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "C:\\Users\\Mofeoluwa\\.nuget\\packages\\system.security.permissions\\4.4.1\\system.security.permissions.4.4.1.nupkg.sha512",
+    "C:\\Users\\Mofeoluwa\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\Mofeoluwa\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
